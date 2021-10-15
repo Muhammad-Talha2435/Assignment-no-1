@@ -42,7 +42,26 @@
 		</div>
 	</div>
 	<hr>
-	
+	<!-- Residential Information of the form -->
+	<div>
+	<h2>Residential Information</h2>
+	City Name: <input type="text" name="" placeholder="City Name"><br><br>
+    Province:<select>
+	<option>balochistan</option>
+	<option>sondh</option>
+	<option>punjab</option>
+	</select><br><br>
+	 Country:<select>
+	<option>USA</option>
+	<option>Pakistan</option>
+	<option>America</option>
+	</select><br><br>
+	Gender:
+	<input type="radio" name="">Male
+	<input type="radio" name="">Female
+	<input type="radio" name="">Other
+	<hr>
+	</div>
 
 </body>
 </html>
