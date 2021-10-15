@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+	<style type="text/css">
+		body
+		{
+			margin-left: 40px;
+            margin-right: 43px;
+		}
+	</style>
+</head>
+<body>
+	<!-- Header of the form -->
+	<div>
+		<h1>J.K.M.B Mallick High School</h1>
+		<h3>Admission Form</h3>
+		<hr>
+	</div>
+     
+     <!-- Personal information of the form -->
+
+	<h2>Personal Information</h2>
+	<div style="display: flex;">
+		
+		<div>
+			NAME:<br><br>
+			Father Name:<br><br>
+			CNIC:<br><br>
+			Color:<br><br>
+			D.O.B:<br><br>
+			EMAIL:
+
+		</div>
+		<div>
+			<input type="text" name="" placeholder="Full Name"><br><br>
+			<input type="text" name="" placeholder="Father Name"><br><br>
+			<input type="text" name="" placeholder="CNIC"><br>
+			<input type="color" name="" ><br><br>
+			<input type="date" name="" placeholder="dd/mm/yy"><br><br>
+			<input type="email" name="" placeholder="abc@xyz.com">
+		</div>
+	</div>
+	<hr>
+	
+
+</body>
+</html>
