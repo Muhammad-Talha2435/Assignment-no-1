@@ -62,6 +62,23 @@
 	<input type="radio" name="">Other
 	<hr>
 	</div>
+	<div>
+		<h2>Academic Information</h2>
+		Qualification: <br>
+		<input type="checkbox" name="">Matric completed <br>
+		<input type="checkbox" name="">Inter Completed <br><br>
+		Class:
+		<input type="text" name="" placeholder="Grade"><br><br>
+		Name of old School:
+		<input type="text" name="" placeholder="ABC High School">
+		<hr>
+	</div>
+	<!-- Footer of the form -->
+	<div>
+		<pre>10/10/21</pre>
+		<input type="submit" name=""> <br><br>
+		<input type="Reset" name="">
+	</div>
 
 </body>
 </html>
